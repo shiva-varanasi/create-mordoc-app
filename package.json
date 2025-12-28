@@ -4,7 +4,7 @@
         "type": "git",
         "url": "https://github.com/shiva-varanasi/create-mordoc-app.git"
     },
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Create Mordoc documentation sites with one command",
     "main": "index.js",
     "bin": {
