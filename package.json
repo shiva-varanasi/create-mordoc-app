@@ -1,10 +1,10 @@
 {
     "name": "create-mordoc-app",
-    "repoitory" :{
+    "repoitory": {
         "type": "git",
         "url": "https://github.com/shiva-varanasi/create-mordoc-app.git"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Create Mordoc documentation sites with one command",
     "main": "index.js",
     "bin": {
