@@ -13,7 +13,7 @@
     "author": "Shiva Varanasi",
     "license": "MIT",
     "dependencies": {
-        "mordoc": "^0.1.11"
+        "mordoc": "^0.1.12"
     },
     "engines": {
         "node": ">=18.0.0"
