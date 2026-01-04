@@ -10,10 +10,6 @@ npx create-mordoc-app my-docs
 
 This will create a new Mordoc documentation site in a directory called `my-docs`.
 
-## License
-
-MIT
-
 ## Mordoc Documentation
 
 Read the full docs [here](https://www.mordoc.dev/)
