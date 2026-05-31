@@ -1,0 +1,6 @@
+{
+    "name": "{{projectName}}",
+    "description": "Your project description.",
+    "baseUrl": "https://yourdocs.com",
+    "defaultLanguage": "en"
+}

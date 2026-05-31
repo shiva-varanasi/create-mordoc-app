@@ -1,0 +1,8 @@
+- label: Home
+  path: /
+- label: Getting Started
+  path: /getting-started
+- label: Second Page
+  path: /second-page
+- label: Third Page
+  path: /third-page

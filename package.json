@@ -1,20 +1,20 @@
 {
     "name": "create-mordoc-app",
-    "repoitory": {
+    "repository": {
         "type": "git",
         "url": "https://github.com/shiva-varanasi/create-mordoc-app.git"
     },
-    "version": "0.0.11",
+    "version": "1.0.0",
     "description": "Create Mordoc documentation sites with one command",
-    "main": "index.js",
     "bin": {
-        "create-mordoc-app": "./index.js"
+        "create-mordoc-app": "./bin/create.js"
     },
+    "files": [
+        "bin",
+        "template"
+    ],
     "author": "Shiva Varanasi",
     "license": "MIT",
-    "dependencies": {
-        "mordoc": "^0.1.14"
-    },
     "engines": {
         "node": ">=18.0.0"
     }
