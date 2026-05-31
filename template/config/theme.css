@@ -1,0 +1,8 @@
+:root {
+  --accent: #1C1C1C; /* their brand blue */
+}
+
+.dark {
+  --accent: #EBEBEB; /* optional: lighter for dark mode */
+  --accent-on: #1C1C1C; /* optional: contrasting color over background */
+} 
