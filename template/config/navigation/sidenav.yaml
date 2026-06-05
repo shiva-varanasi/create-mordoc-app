@@ -1,8 +1,9 @@
-- label: Home
-  path: /
-- label: Getting Started
-  path: /getting-started
-- label: Second Page
-  path: /second-page
-- label: Third Page
-  path: /third-page
+- label: The Ring
+  expanded: true
+  children:
+    - label: Lore of the Ring
+      path: /lore
+    - label: Wielding the Ring
+      path: /wielding-the-ring
+    - label: Safeguards
+      path: /safeguards

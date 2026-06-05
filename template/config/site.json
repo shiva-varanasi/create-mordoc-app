@@ -1,6 +1,11 @@
 {
-    "name": "{{projectName}}",
-    "description": "Your project description.",
-    "baseUrl": "https://yourdocs.com",
-    "defaultLanguage": "en"
+  "name": "The Ring of Power",
+  "description": "A field guide for keepers, scholars, and reluctant bearers of the One Ring.",
+  "baseUrl": "https://ring-of-power.example.com",
+  "defaultLanguage": "en",
+  "metadata": {
+    "ogImage": "/images/ring-og.svg",
+    "ogType": "website",
+    "twitterCard": "summary_large_image"
+  }
 }

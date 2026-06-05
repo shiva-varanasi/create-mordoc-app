@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Book icon">
+  <rect x="14" y="10" width="30" height="44" rx="4" fill="#fff7e6" stroke="#8a4b1f" stroke-width="4"/>
+  <path d="M22 10v44" stroke="#d69e2e" stroke-width="4"/>
+  <path d="M28 22h10M28 31h10" stroke="#8a4b1f" stroke-width="3" stroke-linecap="round"/>
+</svg>

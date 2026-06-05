@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="The Ring of Power social preview">
+  <rect width="1200" height="630" fill="#120b08"/>
+  <circle cx="600" cy="315" r="210" fill="none" stroke="#f7c948" stroke-width="42"/>
+  <circle cx="600" cy="315" r="145" fill="none" stroke="#7b341e" stroke-width="14"/>
+  <text x="600" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="56" font-weight="700" fill="#fff7e6">The Ring of Power</text>
+  <text x="600" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="38" fill="#f7c948">One guide to bind them</text>
+</svg>
