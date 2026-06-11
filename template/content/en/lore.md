@@ -9,8 +9,6 @@ The One Ring is not a common trinket, heirloom, or travel charm. It is a ruling 
 
 The Wise agree on one point: anyone who studies the Ring must first understand that it is not passive. It waits, listens, and works upon desire.
 
-![The One Ring resting in shadow](/images/ring-hero.svg)
-
 ## What the Ring Is
 
 The Ring carries three qualities every keeper should understand:
@@ -25,11 +23,23 @@ Descriptions of the Ring are never neutral. Compare accounts from Elves, Men, Ho
 
 ## Known Names
 
-| Name | Used by | Meaning |
-| --- | --- | --- |
-| The One Ring | Scholars | The master ring among all rings |
-| Isildur's Bane | Gondor | A warning drawn from history |
-| Precious | Former bearers | A sign that attachment has taken root |
+{% table %}
+* Name
+* Used by
+* Meaning
+---
+* The One Ring
+* Scholars
+* The master ring among all rings
+---
+* Isildur's Bane
+* Gondor 
+* A warning drawn from history
+---
+* Precious
+* Former bearers
+* A sign that attachment has taken root
+{% /table %}
 
 ## A Brief Timeline
 
