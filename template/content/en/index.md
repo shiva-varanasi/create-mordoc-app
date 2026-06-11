@@ -4,7 +4,12 @@ description: Start here to learn the purpose, promise, and peril of the One Ring
 layout: landing
 ---
 
-{% hero title="One ring" titleAccent="to rule them all" description="A practical field guide for keepers, scholars, and very cautious bearers of the One Ring." background="#120b08" titleColor="#fff7e6" titleAccentColor="#D64518" descriptionColor="#f7d6c6" %}
+{% hero 
+  title="One ring" 
+  titleAccent="to rule them all" 
+  description="A practical field guide for keepers, scholars, and very cautious bearers of the One Ring." 
+  background="/images/hero-images/mordor.png" 
+%}
 {% button path="/lore" %}
 Get started
 {% /button %}

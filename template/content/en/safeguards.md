@@ -33,11 +33,24 @@ Short written logs help companions notice slow changes that feel invisible day b
 
 ## Response Levels
 
-| Level | Sign | Response |
-| --- | --- | --- |
-| Watch | Restlessness near the Ring | Add a companion |
-| Warn | Secret planning | Pause the mission |
-| Intervene | Claiming language | Separate bearer and Ring |
+{% table %}
+* Level
+* Sign
+* Response
+---
+* Watch
+* Restlessness near the Ring
+* Add a companion
+---
+* Warn
+* Secret planning
+* Pause the mission
+---
+* Intervene
+* Claiming language
+* Separate bearer and Ring
+---
+{% /table %}
 
 ## Example Safeguard Log
 

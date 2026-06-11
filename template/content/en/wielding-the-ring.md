@@ -39,12 +39,20 @@ Status: Burden accepted, not claimed
 
 Use this checklist before taking action.
 
-| Question | Safe answer |
-| --- | --- |
-| Is the goal specific? | Yes |
-| Is there a witness? | Yes |
-| Is the Ring being used for convenience? | No |
-| Has the bearer asked for help? | Yes |
+{% table %}
+* Question
+* Safe answer
+---
+* Is the goal specific?
+* Yes
+---
+* Is there a witness?
+* Yes
+---
+* Is the Ring being used for convenience?
+* No
+---
+{% /table %}
 
 {% callout type="danger" title="Immediate stop condition" %}
 If the bearer calls the Ring "mine", stop the procedure and move to the safeguards plan.
@@ -61,5 +69,3 @@ Understanding old failures is the fastest way to avoid repeating them.
 Use the safeguards page whenever the Ring begins to feel useful.
 {% /card %}
 {% /cardGrid %}
-
-{% button path="/safeguards" %}Go to safeguards{% /button %}
