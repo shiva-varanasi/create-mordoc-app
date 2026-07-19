@@ -3,8 +3,6 @@ title: Safeguards
 description: Rules and warning signs for keeping the Ring from ruling its keeper.
 ---
 
-# Safeguards
-
 The Ring is most dangerous when it feels reasonable. Safeguards turn private judgment into shared practice.
 
 ## Core Rules
