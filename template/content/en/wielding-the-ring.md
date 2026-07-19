@@ -3,8 +3,6 @@ title: Wielding the Ring
 description: A practical guide for handling the Ring without letting it handle you.
 ---
 
-# Wielding the Ring
-
 This guide is issued for emergency stewardship only. To wield the Ring is to invite it into the will, and the will rarely notices the door closing behind it.
 
 ## Before You Touch It

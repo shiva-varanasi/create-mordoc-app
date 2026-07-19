@@ -3,8 +3,6 @@ title: Lore of the Ring
 description: A short history of the One Ring and the forces bound to it.
 ---
 
-# Lore of the Ring
-
 The One Ring is not a common trinket, heirloom, or travel charm. It is a ruling artifact, forged to gather power into one small circle of gold.
 
 The Wise agree on one point: anyone who studies the Ring must first understand that it is not passive. It waits, listens, and works upon desire.
