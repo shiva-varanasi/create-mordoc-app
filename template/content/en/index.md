@@ -15,7 +15,7 @@ Get started
 {% /button %}
 {% /hero %}
 
-{% section title="Before the Council" background="subtle" %}
+{% section title="Before the Council" %}
 The Ring is small enough to vanish in a closed hand and heavy enough to bend the fate of kingdoms.
 
 This guide gathers the first principles every keeper must know before the Ring is moved, studied, hidden, or entrusted to a bearer.
